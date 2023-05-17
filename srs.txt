@@ -1,0 +1,89 @@
+ 
+ 
+ 
+ Functional Requirements: 
+ 	Any anonymous user will be able to view different  options available for 
+that specific week with multiple travels options. According to customer's requirement 
+the customer could book the tickets.
+
+
+	All customers will be able to see different Travels(aairlines,bus,trains) details available for watching any customers 
+	will be able to see details of any Travels(aairlines,bus,trains) which is running in theatre.
+Theatre staff will be able to schedule Travels(aairlines,bus,trains)s at in theatres by updating Travels(aairlines,bus,trains) names of the .
+
+Staff will be able to approve or reject request for selected  , seat ,  , etc. selected by 
+customer.
+
+
+Staff will be able to extend number of Travels(airlines,bus,trains)  
+if Travels(aairlines,bus,trains) Booking is doing well.
+
+
+
+Anonymous customers can see all the Travels(aairlines,bus,trains)  available seats 
+but he/she have to also  at the time ticket
+ booking they need to register first.
+ 
+ Register customers can book any number available seats and also 
+ they can check price of ticket.
+ 
+ Register number can choose Any Travels which are available near their location.
+
+
+ Register customer can cancel their booked ticket 2hrs before  time to get 100% refund.
+ 
+Register customer are able to get transactions history. They can also get  details etc.
+Register customers can do their payment by online mode using upi and other payment gateways.
+Management staff are able to refund payment of Register customer 
+if customer cancel their ticket before 2 hrs. of  time.
+
+Management staff have authority not to refund payment if Register customer not cancel ticket before 2 hrs. of  time.
+Register customer will get notified about Travels(aairlines,bus,trains) details and transaction details via email 
+and messages.Dashboard will provide list of latest Travels(aairlines,bus,trains)s, after selecting specific Travels(aairlines,bus,trains)
+ dashboard will provide information of available seats, IMDB rating.System and Technical team (IT Operations team) 
+ will be able monitor system operations by monitoring logs maintained.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

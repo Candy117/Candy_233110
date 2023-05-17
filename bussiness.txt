@@ -1,0 +1,34 @@
+bussiness enntities
+3)
+
+Bussiness Entities And bussiness Operations While Devloping Online teckit booking system;
+
+Security:
+Registered Customer will be allowed to book the tickets online. Each user allowed to 
+access system  through authentication process.
+System should enable users to book / pay for their tickets only in a timeboxed 
+manner after tickets being selected.
+
+Availability  uptime:   24* 7  available
+
+Reliability:
+The system will backup business data on regular basis and recover in short time 
+duration to keep system operational Continous updates are matained, continous 
+Adminstration is done to keep system operational.
+
+Portability:
+ PDA: Portable Device Application
+System will provide portable User Interface 
+( HTML, CSS, JS) through  users will be able to access
+
+Maintainability:
+A Commercial database software will be used to maintain System data Persistence.
+A readymade Web Server will be installed to host online shopping portal (Web Site) to management server capabilities.
+
+Safety,
+Scalability,
+Modularity,
+Efficiency,
+Durability
+
+
